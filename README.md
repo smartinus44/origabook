@@ -1,2 +1,2 @@
-# origabook
-A set of origami achievments.
+# Origabook
+A set of origami achievements.
