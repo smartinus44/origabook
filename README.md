@@ -1,2 +1,2 @@
 # origabook
-A set of 
+A set of origami achievments.
